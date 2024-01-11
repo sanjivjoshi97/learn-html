@@ -13,9 +13,15 @@
 
 ## Questions for you to answer
 1. What is the purpose of the _action_ attribute in the _form_ tag?
+   - URL to which the data from the form should be sent to.
 2. What is the purpose of the _method_ attribute in the _form_ tag?
+   - Which HTTP method (GET, POST etc) to use and send the data from the form.
 3. What is the purpose of the _name_ attribute in the _input_ tag?
+   - Provides a nomenclature to a input tag making it more meaningful to what it might hold.
 4. What is the purpose of the _type_ attrbute in the _input_ tag?
+   - Kind of like a data type the input tag can show or hold. 
 5. What is the purpose of the _label_ tag?
+   - Tags a particular element, especially helpful in _input_ for accessibility.
 6. What is the purpose of the _required_ attribute?
+   - Makes a form field mandatory to be filled before submitting the form.
 
